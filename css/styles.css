@@ -150,7 +150,7 @@ footer p {
 }
 
 .boton:hover {
-    color: #fff;
+    color: rgba(0, 0, 0, 0.411);
 }
 
 @media (max-width: 1200px) {
